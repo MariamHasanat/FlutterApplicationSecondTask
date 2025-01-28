@@ -1,0 +1,17 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "flutter_application_second_task",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.6"
+    }
+  ],
+  "generated": "2025-01-28T11:56:21.395961Z",
+  "generator": "pub",
+  "generatorVersion": "3.6.1",
+  "flutterRoot": "file:///C:/dev/flutter",
+  "flutterVersion": "3.27.3",
+  "pubCache": "file:///C:/Users/hasan/AppData/Local/Pub/Cache"
+}

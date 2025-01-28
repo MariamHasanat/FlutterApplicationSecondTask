@@ -1,0 +1,10 @@
+name: flutter_application_second_task
+description: A Dart project for solving data structure challenges (Stacks & Linked Lists).
+version: 1.0.0
+
+dependencies:
+
+dev_dependencies:
+
+environment:
+  sdk: '^3.6.0'
